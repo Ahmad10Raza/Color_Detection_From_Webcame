@@ -1,8 +1,5 @@
 # Color_Detection_From_Webcame
 
-
-# Color_Detection_From_Webcame
-
 ## OutPut:
 
 ![Color Detection](Color_Detection.py)
